@@ -1,0 +1,1 @@
+//Find the least common divisors of two positive integers => ko phải là 1 hã
